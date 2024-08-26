@@ -38,7 +38,7 @@ The Snowflake Data Pipeline Project is designed to demonstrate the process of bu
 
 snowflake-data-pipeline/ │ ├── data/ │ └── sales_data.csv # Sample data file │ ├── scripts/ │ ├── snowflake_setup.sql # SQL script to set up Snowflake database and schema │ ├── snowflake_task.sql # SQL script to create and manage Snowflake tasks │ └── data_transformation.sql # SQL script to transform raw data │ ├── README.md # Project README file 
 
-### Project Link(View only)
+### Project Link for SQL Folder(View only)
 https://app.snowflake.com/stfofgt/do33111/#/sales-folder-fDw6k1nzG
 
 
